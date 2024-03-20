@@ -6,7 +6,7 @@ import javafx.scene.control.*;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
-public class MetricConverterApp extends Application {
+public class MetricConverterAppGui extends Application {
     
     @Override
     public void start(Stage primaryStage) {
